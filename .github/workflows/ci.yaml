@@ -1,4 +1,4 @@
-name: CI con AutoCommit
+name: CI con Artefactos
 
 on:
   push:
